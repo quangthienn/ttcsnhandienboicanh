@@ -6,4 +6,5 @@ sau khi chuyển đổi sang sẽ có file datasets có nhãn và ảnh trong đ
  cấu tạo file coco128 chỉ có 80 nhãn nên sẽ có nhiều ảnh  ko có nhãn trong số đó ta cần loại  bỏ chúng em chạy file test.py để loại bố 
  rồi em chạy train_model.py kia để train yolov8 sau khi train xog sẽ  hiện ra model  best và last trong file detect và sinh ra file yolo11n.pt để  dự đoán
  cuối cùng và file app là chạy thử nghiệm 
- file data sẽ chứa các datasets  ,datasetcoco và datasetssmaill là những data  mà đã chạy xog code trên 
+ gg drive datasetsmaill : https://drive.google.com/drive/folders/11yp_NzALseMznpMhmr1zESedHrp4N4jH
+2 datasetcoco và dataset kia  dung lượng lớn quá ko up đc : ![image](https://github.com/user-attachments/assets/14469ea1-4144-496a-909b-2987be19a95a)
